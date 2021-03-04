@@ -1,5 +1,5 @@
 # code_refactor
-First homework assignment Bootcamp
+Bootcamp - Homework Week 1 - Horiseon Webpage Code Refactor.
 
 
 ## Acceptance Criteria
