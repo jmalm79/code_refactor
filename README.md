@@ -14,7 +14,7 @@ First homework assignment Bootcamp
 
 * It's done WHEN I view the title element, THEN I find a concise, descriptive title.
 
-(assets/images/screen_shot_josh_alm.jpg)
- 
-## Link  
-<https://jmalm79.github.io/code_refactor/>   
+![The update Horiseon webpage.](assets/images/screen_shot_josh_alm.jpg)
+
+## Link
+* <https://jmalm79.github.io/code_refactor/>   
